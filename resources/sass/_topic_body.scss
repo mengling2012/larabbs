@@ -366,4 +366,11 @@
     pre code:after {
       content: normal;
     }
+
+    img {
+        width: auto;
+        height: auto;
+        max-width: 100%;
+        }
+        
   }
